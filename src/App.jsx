@@ -6,7 +6,7 @@ import initialData from './helpers/initialData';
 function App() {
 
   const [city, setCity] = useState('');
-  const [data, setData] = useState({initialData});
+  const [data, setData] = useState(initialData);
 
   const handleSubmit = (event) => {
     event.preventDefault();
@@ -17,12 +17,12 @@ function App() {
   };
 
   return (
-    <div className='flex flex-col w-full h-screen items-center justify-center bg-slate-50'>
-      <form onSubmit={handleSubmit}>
+    <div className='flex flex-col w-full h-screen items-center sm:justify-center bg-slate-50 p-4'>
+      <form onSubmit={handleSubmit} className='fixed bottom-0 w-full flex p-4 sm:relative justify-center'>
         <input 
           type="text" 
           placeholder='Cidade' 
-          className='p-3 rounded-lg outline-none'
+          className='p-3 rounded-lg outline-none w-full sm:max-w-[300px] flex-1'
           value={city}
           onChange={({  target: { value }  }) => setCity(value)}
         />

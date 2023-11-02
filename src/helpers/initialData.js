@@ -1,14 +1,14 @@
 
 const initialData = {
     location: {
-        name: "London",
-        region: "City of London, Greater London",
-        country: "United Kingdom",
+        name: "-",
+        region: "-",
+        country: "-",
     },
     current: {
-        temp_c: 12.0,
+        temp_c: 0,
         condition: {
-            text: "Light rain",
+            text: "-",
             icon: "//cdn.weatherapi.com/weather/64x64/night/296.png",
         },
     }
