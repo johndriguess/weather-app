@@ -11,6 +11,7 @@ Este é um projeto de um simples site para verificar a temperatura em tempo real
 ![Weather_API](https://cdn.weatherapi.com/v4/images/weatherapi_logo.png)
 
 ## Como Funciona?
+
  * Como foi feito de forma simples e direta, basta utilizar a barra de pesquisa para buscar por uma cidade específica
    |![Nome do Jogador](https://drive.google.com/uc?export=view&id=1XllKiqLNprpUDWSy0MOTVrySSrnFAkiu)|
     |----------|
