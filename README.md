@@ -16,6 +16,7 @@ Este é um projeto de um simples site para verificar a temperatura em tempo real
  * Como foi feito de forma simples e direta, basta utilizar a barra de pesquisa para buscar por uma cidade específica
    |![Nome do Jogador](https://drive.google.com/uc?export=view&id=1XllKiqLNprpUDWSy0MOTVrySSrnFAkiu)|
     |----------|
+    |Exemplo utilizado: Campina Grande, cidade do estado da Paraíba, em Brasil. 
 
 ### Entre em contato comigo: 
 
