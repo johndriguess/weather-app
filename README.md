@@ -7,6 +7,10 @@ Este é um projeto de um simples site para verificar a temperatura em tempo real
 ![HTML5](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Weather_API](https://cdn.weatherapi.com/v4/images/weatherapi_logo.png)
+
+## Como Funciona?
+ * **Abrindo o jogo** - *Nome do Jogador*  
 
 ### Entre em contato comigo: 
 
