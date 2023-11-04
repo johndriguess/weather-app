@@ -6,6 +6,14 @@ Este é um projeto de um simples site para verificar a temperatura em tempo real
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=264CE4)
-!![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+### Entre em contato comigo: 
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0000)](https://github.com/johndriguess/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=f00)](mailto:johndriguess@gmail.com)
+
+### Adicionais 
+* Qualquer feedback ou sugestões de melhorias são bem-vindos.
 
 
